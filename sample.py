@@ -13,6 +13,7 @@ import time
 
 palm.configure(api_key="AIzaSyDeYshE-LEcHkTca2FjXWlxCXbMjIT72Dc")
 
+st.title("Sentiment_Analysis")
 # Initialize chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
