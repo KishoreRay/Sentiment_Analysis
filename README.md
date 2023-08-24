@@ -1,6 +1,9 @@
 # Sentiment Analysis Chat Interface
 This project implements a chat interface for sentiment analysis using the Google Generative AI package and Streamlit. The interface allows users to input text, which is then analyzed for sentiment, and feedback is provided. The primary goal of this project is to showcase the capabilities of sentiment analysis in a user-friendly and interactive manner.
 
+## Link for the Beta_app
+[Sentiment_Analysis_App](https://sentimentanalysis-zwwverncwwhnsewneg2p9r.streamlit.app/)
+
 # Table of Contents
 * What It Does
 * Getting Started
